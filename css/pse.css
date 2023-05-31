@@ -1,0 +1,10 @@
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ajusta la altura según tus necesidades */}
+
+    .tittle2{
+        text-align: center;
+        color: blue;
+    }
