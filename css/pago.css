@@ -1,6 +1,6 @@
 
 .selecc2{ text-align: center;
-color: blue;}
+color: black;}
 
 .logo{
 position: absolute;
@@ -20,10 +20,7 @@ opacity: 0.5;
     height: 100%;
     opacity: 0.5;
     }
-    .tittle2{
-        text-align: center;
-        color: blue;
-    }
+   
     .container1 {
         display: flex;
         justify-content: center;
